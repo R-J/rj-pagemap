@@ -1,0 +1,24 @@
+{
+    "type": "addon",
+    "key": "rj-pagemap",
+    "name": "Pagemap",
+    "description": "Add Lars Jungs <a href=\"https://larsjung.de/pagemap/\">pagemap</a> to Vanilla",
+    "license": "MIT",
+    "version": "0.1.0",
+    "pluginUrl": "https://github.com/r-j/rj-pagemap",
+    "authors": [
+        {
+            "name": "Robin Jurinka",
+            "homepage": "https://open.vanillaforums.com/profile/r_j"
+        }
+    ],
+    "priority": 10,
+    "className": "PagemapPlugin",
+    "hasLocale": true,
+    "mobileFriendly": true,
+    "usePopupSettings": true,
+    "requiredTheme": false,
+    "requiredPlugin": false,
+    "allowDisable": true,
+    "hidden": false
+}
